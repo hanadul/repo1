@@ -1,0 +1,2 @@
+1st line on 2.txt
+2nd line on 2.txt
